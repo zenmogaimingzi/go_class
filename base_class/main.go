@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	testPackage "my_test_demo/testPackage"
+	testPackage "go_class/base_class/testPackage"
 	"sync"
 )
 
